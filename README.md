@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**iota-008/iota-008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  Open Source Contributions
